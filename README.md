@@ -9,7 +9,12 @@ Google Merchandise Store clickstream data from Google Bigquery from 1 November 2
 Dataset was extracted by incorporating SQL queries into the Python codes in Google Colab - See **Data_Extraction_and_Exploratory_Data_Analysis.ipynb** under codes folder.
 https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801
 
- 
+**Training Dataset**:<br>
+Data Folder - test_dataset.csv<br>
+**Testing Dataset**:<br>
+Data Folder - 
+train_validation_dataset.csv
+
 Note: Target variable (transaction) is highly imbalanced with only 3.9% of the non-bounce sessions making a transaction.
 
 **Performance Metric:** <br>
@@ -47,7 +52,6 @@ Our full report can be found in: 'Project Report - Applied Machine Learning.docx
 * dmatrices<br>
 * statsmodels<br>
 * lightgbm<br>
-* pickle<br>
 
 
 Python libraries above can be installed via `pip`. Note that we only tested with the versions above, newer versions might not work.
