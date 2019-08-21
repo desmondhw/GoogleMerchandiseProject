@@ -1,3 +1,4 @@
+![1_UotPZNT_c_BjECWSx00pPw](https://user-images.githubusercontent.com/34176396/63445590-3cac9980-c46b-11e9-9b07-e34c9801a98f.png)
 ## PREDICTING CONVERSION FROM GOOGLE MERCHANDISE STORE
 This project aims to build a machine learning algorithm for predicting whether customers visiting Google's Merchandise Store will make a purchase in the next 7 days.
 
