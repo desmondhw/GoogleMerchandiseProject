@@ -12,11 +12,22 @@ https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sa
  
 Note: Target variable (transaction) is highly imbalanced with only 3.9% of the non-bounce sessions making a transaction.
 
-**Models**<br>
-Random Forest with data without LDA and PCA obtained the highest F2-score for the test data out of all the combinations tried. 
+**Performance Metric:** <br>
+F2-score. F2-score considers both precision and recall in the measurement, but implicit computation will give a higher weightage to recall measure, i.e. the ability for the model to be able to capture as many potential customers as possible. 
 
-**Report**<br>
-Our full report: 'Project Report - Applied Machine Learning.docx'
+**Models:**<br>
+Random Forest using data without LDA, PCA obtained the highest F2-score for the test data out of all the combinations tried.<br><br>
+Best model
+* Models without LDA _ PCA.ipynb<br>
+
+Other models
+* Models with LDA.ipynb
+* Models with PCA.ipynb
+* Models without LDA _ PCA with undersampling.ipynb
+
+
+**Report:**<br>
+Our full report can be found in: 'Project Report - Applied Machine Learning.docx'
 
 **Requirements:** <br>
 
