@@ -45,7 +45,7 @@ Our full report can be found in: 'Project Report - Applied Machine Learning.docx
 * dmatrices<br>
 * statsmodels<br>
 * lightgbm<br>
-* picke<br>
+* pickle<br>
 
 
 Python libraries above can be installed via `pip`. Note that we only tested with the versions above, newer versions might not work.
