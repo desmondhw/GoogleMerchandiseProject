@@ -33,6 +33,9 @@ Other models
 Tableau:<br>
 * outliers.twbx - This visual demonstrated why Anomaly Detection models didn't work well due to the minority class(purchase) not appearing as anomalies, but clustered with the majority.
 
+![Screenshot 2019-08-21 at 22 55 45](https://user-images.githubusercontent.com/34176396/63444603-8300f900-c469-11e9-946f-0519ca38e7ab.png)
+
+
 **Report:**<br>
 Our full report can be found in: 'Project Report - Applied Machine Learning.docx'
 
