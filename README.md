@@ -13,28 +13,28 @@ https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sa
 Note: Target variable (transaction) is highly imbalanced with only 3.9% of the non-bounce sessions making a transaction.
 
 **Models**<br>
-
+Random Forest with data without LDA and PCA obtained the highest F2-score for the test data out of all the combinations tried. 
 
 **Report**<br>
 Our full report: 'Project Report - Applied Machine Learning.docx'
 
 **Requirements:** <br>
 
-Python 3.7 <br>
-Jupyter Notebook
+* Python 3.7 <br>
+* Jupyter Notebook
 
 **Python Libraries Required:**<br>
 
-datetime<br>
-numpy<br>
-pandas<br>
-scikit-learn<br>
-matplotlib.pyplot<br>
-seaborn<br>
-dmatrices<br>
-statsmodels<br>
-lightgbm<br>
-picke<br>
+* datetime<br>
+* numpy<br>
+* pandas<br>
+* scikit-learn<br>
+* matplotlib.pyplot<br>
+* seaborn<br>
+* dmatrices<br>
+* statsmodels<br>
+* lightgbm<br>
+* picke<br>
 
 
 Python libraries above can be installed via `pip`. Note that we only tested with the versions above, newer versions might not work.
