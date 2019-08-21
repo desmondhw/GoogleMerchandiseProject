@@ -24,15 +24,15 @@ F2-score. F2-score considers both precision and recall in the measurement, but i
 **Models:**<br>
 Random Forest using data w/o any LDA feature engineering and w/o PCA obtained the highest F2-score for the test data out of all the combinations tried.<br><br>
 Best model
-* Models without LDA _ PCA.ipynb<br>
+* Codes\Models without LDA _ PCA.ipynb<br>
 
 Other models
-* Models with LDA.ipynb
-* Models with PCA.ipynb
-* Models without LDA _ PCA with undersampling.ipynb
+* Codes\Models with LDA.ipynb
+* Codes\Models with PCA.ipynb
+* Codes\Models without LDA _ PCA with undersampling.ipynb
 
 Tableau:<br>
-* outliers.twbx - This visual demonstrated why Anomaly Detection models didn't work well due to the minority class(purchase) not appearing as anomalies, but clustered with the majority.
+* Codes\outliers.twbx - This visual demonstrated why Anomaly Detection models didn't work well due to the minority class(purchase) not appearing as anomalies, but clustered with the majority.
 
 ![Screenshot 2019-08-21 at 22 55 45](https://user-images.githubusercontent.com/34176396/63444603-8300f900-c469-11e9-946f-0519ca38e7ab.png)
 
