@@ -11,10 +11,9 @@ Dataset was extracted by incorporating SQL queries into the Python codes in Goog
 https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801
 
 **Training Dataset**:<br>
-Data Folder - test_dataset.csv<br>
+data\test_dataset.csv<br>
 **Testing Dataset**:<br>
-Data Folder - 
-train_validation_dataset.csv
+data\train_validation_dataset.csv
 
 Note: Target variable (transaction) is highly imbalanced with only 3.9% of the non-bounce sessions making a transaction.
 
