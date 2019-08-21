@@ -16,7 +16,7 @@ Note: Target variable (transaction) is highly imbalanced with only 3.9% of the n
 F2-score. F2-score considers both precision and recall in the measurement, but implicit computation will give a higher weightage to recall measure, i.e. the ability for the model to be able to capture as many potential customers as possible. 
 
 **Models:**<br>
-Random Forest using data without LDA, PCA obtained the highest F2-score for the test data out of all the combinations tried.<br><br>
+Random Forest using data w/o any LDA feature engineering and w/o PCA obtained the highest F2-score for the test data out of all the combinations tried.<br><br>
 Best model
 * Models without LDA _ PCA.ipynb<br>
 
@@ -25,6 +25,8 @@ Other models
 * Models with PCA.ipynb
 * Models without LDA _ PCA with undersampling.ipynb
 
+Tableau:<br>
+* outliers.twbx - This visual demonstrated why Anomaly Detection models didn't work well due to the minority class(purchase) not appearing as anomalies, but clustered with the majority.
 
 **Report:**<br>
 Our full report can be found in: 'Project Report - Applied Machine Learning.docx'
