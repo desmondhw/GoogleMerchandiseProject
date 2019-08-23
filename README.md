@@ -43,6 +43,7 @@ Our full report can be found in: 'Project Report - Applied Machine Learning.docx
 
 * Python 3.7 <br>
 * Jupyter Notebook
+* Tableau 2019.2
 
 **Python Libraries Required:**<br>
 
