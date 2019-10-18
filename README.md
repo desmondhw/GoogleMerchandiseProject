@@ -2,7 +2,7 @@
 ## PREDICTING CUSTOMER CONVERSION FROM GOOGLE MERCHANDISE STORE
 This project aims to build a machine learning algorithm for predicting whether customers visiting Google's Merchandise Store will make a purchase in the next 7 days.
 
-Contributed by: Lim Si Ling Evelyn, Lee Meng Yong, Jiang Nan, Desmond Ho<br>
+Contributed by: Lim Si Ling Evelyn, [Lee Meng Yong](https://www.linkedin.com/in/mylee1/), Jiang Nan, [Desmond Ho](https://www.linkedin.com/in/desmond-ho-82445322/)<br>
 Pls contact desmondhw@gmail.com for any questions.
 
 **Data**:<br>
